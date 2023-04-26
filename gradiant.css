@@ -1,0 +1,11 @@
+body{
+    color:aqua;
+}
+header{
+    background-size:90vh;
+    background-image:url("background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:top;
+    clip-path: polygon(0 0,100% 86%,100% 100%, 0 100%);
+}
